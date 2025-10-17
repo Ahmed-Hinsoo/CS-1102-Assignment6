@@ -25,10 +25,10 @@ Compile the file:
 
 Bash
 
-javac VehicleSystem.java
+javac VehicleSystem.java -->
 Run the application:
 
 Bash
 
-java VehicleSystem
+java VehicleSystem -->
 The program will display a menu, allowing you to add different types of vehicles and view the full inventory details.
