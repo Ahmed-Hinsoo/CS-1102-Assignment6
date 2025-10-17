@@ -1,4 +1,8 @@
 Rental Agency Vehicle Manager 🚗🏍️🚛
+
+<img width="676" height="548" alt="image" src="https://github.com/user-attachments/assets/8c166a57-ceba-4011-aba0-62e65869f862" />
+
+
 This is a small Java console application designed to manage the inventory for a car rental agency. The main goal of this project was to demonstrate the use of Interfaces to enforce common behavior across different, unrelated classes (Car, Motorcycle, Truck).
 
 The whole system is built around the idea that all vehicles need certain things (Make, Model, Year), but each type also has its own unique, required information (Doors, Wheels, Capacity, etc.).
